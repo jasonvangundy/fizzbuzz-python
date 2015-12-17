@@ -1,0 +1,3 @@
+pytest
+mock
+-e git+https://github.com/vesln/robber.py.git#egg=robber
